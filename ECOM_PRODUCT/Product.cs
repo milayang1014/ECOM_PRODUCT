@@ -23,11 +23,15 @@ namespace ECOM_PRODUCT
 
         public void IncreaseStock(int amount)
         {
+            if (Stock + amount > 100000)
+                throw new ArgumentOutOfRangeException(nameof(amount), "Stock cannot exceed 100000.");
             Stock += amount;
         }
 
         public void DecreaseStock(int amount)
         {
+            if (Stock - amount < 0)
+                throw new ArgumentOutOfRangeException(nameof(amount), "Stock cannot be less than 0.");
             Stock -= amount;
         }
     }
