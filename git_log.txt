@@ -1,0 +1,35 @@
+commit b9f77e8bc0850c4aa756aeaa6611e5981005b405
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 14:56:41 2024 -0400
+
+    Final commit with all changes
+
+commit b44600392aa3cefb1945a9a718189d3782fc9db9
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 13:32:34 2024 -0400
+
+    Completed unit tests for Product class
+
+commit 2c7ab0e71eb2ac53b9dfe0075512addc5381c831
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 13:18:02 2024 -0400
+
+    Completed Product class implementation
+
+commit 09237edf2b2f68ae96224de078148a2738298ed8
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 13:16:47 2024 -0400
+
+    Initial commit with project setup
+
+commit dc63394385556bb23c47808b3ca0156f994e2ba0
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 10:18:26 2024 -0400
+
+    Completed Product class implementation
+
+commit 03acc78db9da5ed93e0f96e58c6a0ee2cea1273c
+Author: milayang1014 <milayang1991@gmail.com>
+Date:   Wed Jun 12 10:13:29 2024 -0400
+
+    Initial commit with project setup
